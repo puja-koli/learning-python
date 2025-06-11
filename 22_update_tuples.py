@@ -1,0 +1,16 @@
+tup=('cat','dog','rat')
+print(type(tup))
+print(type(list(tup)))
+#adding iteams
+tup=('cat','dog','rat')
+a=list(tup)
+a.append('lion')
+tup=tuple(a)
+print(tup)
+#reverse iteams
+tup=('cat','dog','rat')
+b=list(tup)
+b.reverse()
+print(b)
+tup=tuple(b)
+print(tup)

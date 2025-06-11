@@ -1,0 +1,11 @@
+lo=('a','b',1,2)
+x=lo.index('a')
+y=lo.index(2)
+print(x)
+print(y)
+
+num=(1,1,2,2,2,6,7)
+w=num.count(3)
+n=num.count(2)
+print(w)
+print(n)
