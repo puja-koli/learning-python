@@ -1,0 +1,10 @@
+st='to go to market'
+print(len(st))
+print(st[0:15])
+print(st[0:16])
+print(st[:16])
+print(st[:])
+print(st[:6])
+print(st[::2])
+print(st[1:11:3])
+print(st[-6:-1])

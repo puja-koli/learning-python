@@ -1,0 +1,7 @@
+age=int(input('inter your age:'))
+print(age>18)
+print(age<18)
+print(age<=18)
+print(age>=18)
+print(age==18)
+print(age!=18)
