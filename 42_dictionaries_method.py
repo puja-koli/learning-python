@@ -1,0 +1,13 @@
+a={}
+b={2}
+print(type(a))
+print(type(b))
+dic={122:54,123:98,567:87}
+dic1={345:00,354:97}
+print(dic)
+dic.update(dic1)
+print(dic)
+dic.pop(122)
+print(dic)
+dic.clear()
+print(dic)
