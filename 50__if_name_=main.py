@@ -1,0 +1,2 @@
+import puja
+puja.welcome()
